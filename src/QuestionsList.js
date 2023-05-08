@@ -201,7 +201,7 @@ const QuestionsList = [
     answersList:[
         {answer:"sollen wir es besuchen?", isCorrect:false},
         {answer:"was kann ich für Sie suchen?", isCorrect:false},
-        {answer:"sollen wir es versuchen?.", isCorrect:true},  
+        {answer:"sollen wir es versuchen?", isCorrect:true},  
         ]
     },
     {question: "Entweder nehmen wir am Seminar teil",
